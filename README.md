@@ -24,14 +24,6 @@ I am an **MRes candidate in Artificial Intelligence and Machine Learning at Impe
 *   **NPCI | Associate Data Scientist** 
     Engineered graph-based fraud detection architectures and built robust financial forecasting models.
 
-## 📊 GitHub Analytics
-
-<!-- IMPORTANT: Replace 'YOUR_GITHUB_USERNAME' in the URLs below with your actual GitHub username -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshuMaths1729&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshuMaths1729&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages" />
-</div>
 
 ## 🌱 What I'm Looking For
 I am always keen to connect with researchers, engineers, and practitioners working on scalable, real-world AI systems. Whether it is collaborating on open-source projects, discussing foundation models, or exploring AI safety, I would love to chat.
